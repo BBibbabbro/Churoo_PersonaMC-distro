@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///D:/helios/Churoo_PersonaMC/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Churoo_PersonaMC (Minecraft 1.21.4)",
+    "description": "Churoo_PersonaMC Running Minecraft 1.21.4 (Fabric v0.16.14)",
+    "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
+    "address": "churoo.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.14"
+  },  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+		  "options.txt",
+		  "servers.dat",
+		  "servers.dat_old"
+		]
+	}
+  ]
+}
