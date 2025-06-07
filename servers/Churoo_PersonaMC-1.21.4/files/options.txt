@@ -52,7 +52,7 @@ highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric"]
-incompatibleResourcePacks:["xaeroworldmap"]
+incompatibleResourcePacks:["mapfrontiers"]
 lastServer:
 lang:ko_kr
 chatVisibility:0
@@ -61,7 +61,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -147,7 +147,7 @@ key_key.journeymap.fullscreen.north:key.keyboard.up
 key_key.journeymap.fullscreen.south:key.keyboard.down
 key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
-key_key.journeymap.fullscreen_follow_player:key.keyboard.f
+key_key.journeymap.fullscreen_follow_player:key.keyboard.delete
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.g
 key_mapfrontiers.key.open_settings:key.keyboard.f8
