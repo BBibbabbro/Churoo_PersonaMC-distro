@@ -12,7 +12,7 @@
       "name": "Churoo_PersonaMC (Minecraft 1.21.4)",
       "description": "Churoo_PersonaMC Running Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "churoo.kro.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -4753,25 +4753,36 @@
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.2.2.zip",
-          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 441687,
-            "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
-            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
-            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/optionsshaders.txt",
+            "MD5": "29d1ddb4c2300d4feb035ef6a7c17320",
+            "path": "optionsshaders.txt"
           }
         },
         {
-          "id": "ComplementaryUnbound_r5.2.2.zip.txt",
-          "name": "ComplementaryUnbound_r5.2.2.zip.txt",
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
           "artifact": {
-            "size": 187,
-            "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
-            "MD5": "8cd934e050a43d4739c9237e75a049fe",
-            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
+            "size": 456332,
+            "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip.txt",
+          "name": "ComplementaryUnbound_r5.5.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 105,
+            "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "MD5": "d4d78dbf3f381f02b598392e8c88b875",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
       ]
