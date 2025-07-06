@@ -12,7 +12,7 @@
       "name": "Churoo_PersonaMC (Minecraft 1.21.4)",
       "description": "Churoo_PersonaMC Running Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "address": "churoo.kro.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
