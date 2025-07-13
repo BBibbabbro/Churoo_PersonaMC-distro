@@ -4739,6 +4739,7 @@
           "artifact": {
             "size": 17763,
             "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/servers.dat",
+            "MD5": "cf0a6d446f9d866539987ec5b5396441",
             "path": "servers.dat"
           }
         },
@@ -4749,6 +4750,7 @@
           "artifact": {
             "size": 19947,
             "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/servers.dat_old",
+            "MD5": "a3949c8e9cdc9e7c9f592e781b3d8a88",
             "path": "servers.dat_old"
           }
         },
