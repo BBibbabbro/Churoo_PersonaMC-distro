@@ -12,7 +12,7 @@
       "name": "Churoo_PersonaMC (Minecraft 1.21.4)",
       "description": "Churoo_PersonaMC Running Minecraft 1.21.4 (Fabric v0.16.14)",
       "icon": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/serverimg.jpg",
-      "version": "1.0.9",
+      "version": "1.1.0",
       "address": "churoo.servera.cloud",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -4737,7 +4737,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 11068,
+            "size": 17763,
             "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/servers.dat",
             "path": "servers.dat"
           }
@@ -4747,7 +4747,7 @@
           "name": "servers.dat_old",
           "type": "File",
           "artifact": {
-            "size": 11068,
+            "size": 19947,
             "url": "https://raw.githubusercontent.com/BBibbabbro/Churoo_PersonaMC-distro/main/servers/Churoo_PersonaMC-1.21.4/files/servers.dat_old",
             "path": "servers.dat_old"
           }
